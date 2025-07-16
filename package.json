@@ -1,0 +1,25 @@
+{
+  "name": "sistema-academico-materias",
+  "version": "1.0.0",
+  "description": "Sistema modular para gestión académica con correlatividades y reportes PDF",
+  "main": "backend/server_modular.js",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-backend": "cd backend && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ELPELADASTER/sistema-academico-materias.git"
+  },
+  "keywords": [
+    "academia",
+    "materias",
+    "universidad",
+    "correlatividades",
+    "nodejs",
+    "express"
+  ],
+  "author": "ELPELADASTER",
+  "license": "MIT"
+}
