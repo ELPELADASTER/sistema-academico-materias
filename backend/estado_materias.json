@@ -1,0 +1,97 @@
+{
+  "1": {
+    "tipo": "aprobada",
+    "nota": 9,
+    "fechaActualizacion": "2025-07-15T20:36:35.808Z"
+  },
+  "2": {
+    "tipo": "regular",
+    "nota": null,
+    "fechaActualizacion": "2025-07-15T20:36:43.861Z"
+  },
+  "3": {
+    "tipo": "aprobada",
+    "nota": 8,
+    "fechaActualizacion": "2025-07-15T20:36:50.114Z"
+  },
+  "4": {
+    "tipo": "aprobada",
+    "nota": 7,
+    "fechaActualizacion": "2025-07-15T20:39:45.854Z"
+  },
+  "5": {
+    "tipo": "aprobada",
+    "nota": 7,
+    "fechaActualizacion": "2025-07-15T20:39:32.660Z"
+  },
+  "6": {
+    "tipo": "aprobada",
+    "nota": 8,
+    "fechaActualizacion": "2025-07-15T20:23:55.895Z"
+  },
+  "7": {
+    "tipo": "aprobada",
+    "nota": 6,
+    "fechaActualizacion": "2025-07-15T20:39:54.495Z"
+  },
+  "8": {
+    "tipo": "aprobada",
+    "nota": 6,
+    "fechaActualizacion": "2025-07-15T20:39:22.034Z"
+  },
+  "10": {
+    "tipo": "pendiente",
+    "nota": null,
+    "fechaActualizacion": "2025-07-15T20:40:01.596Z"
+  },
+  "11": {
+    "tipo": "aprobada",
+    "nota": 9,
+    "fechaActualizacion": "2025-07-15T20:39:09.262Z"
+  },
+  "13": {
+    "tipo": "aprobada",
+    "nota": 9,
+    "fechaActualizacion": "2025-07-15T20:40:10.038Z"
+  },
+  "14": {
+    "tipo": "aprobada",
+    "nota": 9,
+    "fechaActualizacion": "2025-07-15T20:40:18.713Z"
+  },
+  "15": {
+    "tipo": "regular",
+    "nota": null,
+    "fechaActualizacion": "2025-07-15T20:40:24.924Z"
+  },
+  "16": {
+    "tipo": "aprobada",
+    "nota": 7,
+    "fechaActualizacion": "2025-07-15T20:40:34.552Z"
+  },
+  "17": {
+    "tipo": "regular",
+    "nota": null,
+    "fechaActualizacion": "2025-07-15T20:40:39.545Z"
+  },
+  "19": {
+    "tipo": "aprobada",
+    "nota": 8,
+    "fechaActualizacion": "2025-07-15T20:40:49.905Z"
+  },
+  "20": {
+    "tipo": "aprobada",
+    "nota": 7.5,
+    "fechaActualizacion": "2025-07-15T20:40:59.591Z"
+  },
+  "21": {
+    "tipo": "aprobada",
+    "nota": 6,
+    "fechaActualizacion": "2025-07-15T20:42:00.047Z"
+  },
+  "electiva_0": {
+    "tipo": "aprobada",
+    "nota": 6,
+    "fechaActualizacion": "2025-07-15T20:42:12.538Z"
+  }
+}

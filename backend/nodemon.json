@@ -1,0 +1,17 @@
+{
+  "watch": [
+    "config/",
+    "services/",
+    "routes/",
+    "utils/",
+    "server_modular.js",
+    "materias.json",
+    "estado_materias.json"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules/",
+    "*.log"
+  ],
+  "delay": 500
+}
